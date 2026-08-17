@@ -1,0 +1,6 @@
+nursing
+medical
+homeopatheic
+ayurvedic
+pharmacy
+Veterinary
